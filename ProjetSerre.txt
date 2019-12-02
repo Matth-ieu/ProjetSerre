@@ -1,1 +1,32 @@
-blabla
+PERMA
+Hiver
+Salade - Oignon - Radis - Poireau - Carottes - Cucurbitacées - Chou Kale - Feuilles de moutarde - Chou - Fleurs comestible
+
+Eté
+Salade - Oignon - Radis - Courgette - Poivron - Aubergine - Tomate - Fraise - Concombre - Artichaut
+
+
+
+VERTICAL
+Hiver
+Salade - Epinard - Blette - Pak Choi - Chou Kale - Feuilles de moutarde - Fleurs comestibles - Coriandre - Chou-rave - Celeri
+
+
+Eté
+Salade - Epinard - Blette - Pak Choi - Courgette - Poivron - Tomate - Fraise - Basilic - Piment
+
+
+
+AERO
+Hiver 
+Salade - Epinard - Blette - Chou Kale - Feuilles de moutarde - Fleurs comestibles - Coriandre - Chou-rave - Celeri - Chou
+
+Eté
+Salade - Epinard - Blette - Courgette - Poivron - Tomate - Fraise - Basilic - Aubergine - Concombre
+
+
+
+https://www.gbif.org/
+https://www.inaturalist.org/
+https://identify.plantnet.org/
+
